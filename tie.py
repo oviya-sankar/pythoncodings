@@ -6,3 +6,6 @@ for ch in s:
         max_count = count
         result = ch
 print("Most frequent character:", result)
+output:
+Enter a string: abbbcccaaa
+Most frequent character: a
