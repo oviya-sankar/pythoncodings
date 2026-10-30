@@ -4,3 +4,6 @@ for num in range(5,8):
        break
 else:
     print(num)
+output:
+5
+7
