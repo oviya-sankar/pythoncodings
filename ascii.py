@@ -6,3 +6,6 @@ for i in s:
     elif 'a'<=i<='z':
         result+=chr(ord(i)-32)
 print(result)                    
+ouput:
+Enter a string:helloWORLD123
+HELLOworld
