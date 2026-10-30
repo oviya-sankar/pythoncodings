@@ -16,3 +16,7 @@ if ch_a==ch_b:
         print("Anagram")
 else:
         print("not Anagram")
+output:
+Enter a string:lisent
+Enter a string:silent
+Anagram
