@@ -7,4 +7,7 @@ for j in a:
     if j.isalnum:
         if j.isupper():
             print(j.lower(),end="")
-            
+output:
+Enter a string: hello world!@#
+HELLOWORLD
+
