@@ -4,3 +4,7 @@ if (CGPA<=8 and DEPT=="IT"):
   print("attend the trining") 
 else:
   print("not attend the trining")    
+ouput:
+Enter the CGPA:9
+Enter the dept:IT
+attend the trining
