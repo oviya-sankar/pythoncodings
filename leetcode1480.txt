@@ -6,5 +6,8 @@ for i in words:
          result.append(i)
          break
 print(result)
+output:
+mass as hero superhero
+['as', 'hero']
 
         
