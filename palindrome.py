@@ -3,3 +3,6 @@ if a==(a[::-1]):
     print("Palindrome")
 else:
     print("Not palindrome")
+output:
+Enter the word:malayalam
+Palindrome
