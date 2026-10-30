@@ -10,6 +10,6 @@ for ch in a:
 print("vowels=",count)
 print("consonants=",consonants)
 output:
-Enter a string:mynameisshivani
+Enter a string:mynameisshivani123
 vowels= 6
 consonants= 0
