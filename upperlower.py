@@ -8,3 +8,6 @@ for ch in s:
         result += ch.upper()
 
 print("Converted string:", result)
+output:
+Enter a string: helloWORld
+Converted string: HELLOworLD
