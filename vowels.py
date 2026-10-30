@@ -4,3 +4,6 @@ for ch in a:
     if ch in"aeiouAEIOU":
         count+=1
 print("vowels=",count)  
+output:
+Enter a string:aeiou is a vowels
+vowels= 9
