@@ -1,3 +1,15 @@
 n=int(input("Enter your table:"))
 for i in range(1, 11):
     print(i,"X",n,"=", n*i)
+output:
+Enter your table:5
+1 X 5 = 5
+2 X 5 = 10
+3 X 5 = 15
+4 X 5 = 20
+5 X 5 = 25
+6 X 5 = 30
+7 X 5 = 35
+8 X 5 = 40
+9 X 5 = 45
+10 X 5 = 50
